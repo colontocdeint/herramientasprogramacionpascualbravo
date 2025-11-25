@@ -1,3 +1,4 @@
+#trabajo modificado
 #sebastian Murillo Gonzales 
 #juan Pablo Chaverra Hoyos
 import math
